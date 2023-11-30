@@ -111,6 +111,15 @@ I'm Jacek from Poland, and I do content on Web Development. I really enjoy learn
       height="40"
     />
   </a>
+
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"
+      alt="vscode"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 
